@@ -1,0 +1,6 @@
+.shareContainer ul {
+    background: #999999;
+    display: flex;
+    /* width: 500px; */
+    margin-top: 20px;
+}
